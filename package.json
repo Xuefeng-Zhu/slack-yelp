@@ -1,0 +1,12 @@
+{
+  "name": "slack-yelp",
+  "version": "1.0.0",
+  "description": "Slack Yelp command.",
+  "main": "yelp.js",
+  "author": "Xuefeng Zhu",
+  "license": "MIT",
+  "dependencies": {
+    "yelp": "@1.0.1",
+    "underscore": "@1.8.3"
+  }
+}
