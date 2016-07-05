@@ -6,8 +6,9 @@ Add yelp command to your slack channel.
 
 1. Install [Webtask](https://webtask.io/)
 2. `wt init`
-3. `wt create yelp.js`
-4. Add the webtask webhook to slack command
+3. Put yelp token to `deploy.sh`
+4. `./deploy.sh`
+5. Add the webtask webhook to slack command
 
 ## Usage
 
